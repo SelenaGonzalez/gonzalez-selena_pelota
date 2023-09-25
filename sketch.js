@@ -9,6 +9,7 @@ function draw() {
   circle(windowWidth / 2, windowHeight / 2, 100);
   textSize(20);
   text(mouseX, 50, 50);
-  text(int(mouseY), 50, 100)
+  text(int(mouseY), 50, 100);
+  point()
 
 }
